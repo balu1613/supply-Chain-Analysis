@@ -41,5 +41,7 @@ End-to-end SQL case study simulating a real analyst investigation:
 - Importance of asking the right question before writing any query
 - How to present data findings as business insights, not just numbers
 - Handling PostgreSQL-specific syntax requirements like ::numeric casting
+<img width="1889" height="1004" alt="{8B7A6628-F078-46D0-B963-499FDD67064C}" src="https://github.com/user-attachments/assets/6de6262d-3c5a-4f3e-b7ca-694671261ea1" />
+
 <img width="1645" height="968" alt="{3EB55F0D-FB4D-4D51-8C27-6185A88161E2}" src="https://github.com/user-attachments/assets/76b8d1d5-b116-48ec-aa76-e52265d2b8a8" />
 
